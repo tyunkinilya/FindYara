@@ -1,3 +1,5 @@
+# Fixed for IDA Pro 7.5 and python 3.8.3
+
 # FindYara
 Use this IDA python plugin to scan your binary with yara rules. All the yara rule matches will be listed with their offset so you can quickly hop to them!  
 
